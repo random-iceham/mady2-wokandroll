@@ -7,7 +7,7 @@
 
 ## A. Project Title  
 **Wok and Roll**
-everything in this app is hardcoded, there is no backend database
+
 ---
 
 ## B. Background
@@ -26,7 +26,9 @@ The primary goal of this app is to provide users with a digital community cookbo
 - Share their own recipes with detailed instructions and visuals  
 - Save their favourite recipes for easy access  
 - Leave reviews and ratings on other users’ recipes  
-- Connect through food and culture  
+- Connect through food and culture
+
+*everything in this app is hardcoded, there is no backend database
 
 ---
 
