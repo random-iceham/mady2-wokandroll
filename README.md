@@ -7,7 +7,7 @@
 
 ## A. Project Title  
 **Wok and Roll**
-*everything in this app is hardcoded, there is no backend database
+everything in this app is hardcoded, there is no backend database
 ---
 
 ## B. Background
