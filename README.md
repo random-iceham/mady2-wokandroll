@@ -1,16 +1,62 @@
-# wok_and_roll
+# Wok and Roll
 
-A new Flutter project.
+## Key Domain: Food and Beverage  
+**Community Cookbook App**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## A. Project Title  
+**Wok and Roll**
+*everything in this app is hardcoded, there is no backend database
+---
 
-A few resources to get you started if this is your first Flutter project:
+## B. Background
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Singapore is a melting pot of cultures and cuisines, contributing to a vibrant and iconic food scene. With so many unique dishes from various backgrounds, it can be difficult to find reliable recipes online, or to discover creative spins on familiar favourites.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This mobile application aims to bring the convenience of Singapore’s beloved dishes into one platform — making it easier for users to explore, share, and enjoy local and international recipes in a community-driven way.
+
+---
+
+## C. Objectives
+
+The primary goal of this app is to provide users with a digital community cookbook, where they can:
+
+- Access and explore a wide range of recipes  
+- Share their own recipes with detailed instructions and visuals  
+- Save their favourite recipes for easy access  
+- Leave reviews and ratings on other users’ recipes  
+- Connect through food and culture  
+
+---
+
+## D. Key Functional Features
+
+### User Management
+
+- User registration, login, and logout  
+- View and edit own profile  
+- View other users’ profiles  
+- Access an “About Us” page  
+
+### Recipe Management
+
+- Upload recipes including:
+  - Recipe title and optional cultural background
+  - List of ingredients
+  - Step-by-step instructions
+  - At least one image of the dish
+
+- Browse and view recipes  
+
+### Search
+
+- Search recipes by:
+  - Recipe name  
+  - User 
+
+### Community Features
+
+- Leave comments on recipes  
+- Submit star ratings and reviews  
+
